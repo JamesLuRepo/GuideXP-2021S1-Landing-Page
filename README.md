@@ -27,7 +27,7 @@ For now, “GuideXP” has achieved some critical functions – content creation
   - <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting minutes</a><br/>
   - <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a><br/>
   - <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a><br/>
-  - <a href="https://trello.com/b/NKVZUMAt/guidexp-techlauncher-sem-1-2021">Trello board(Scrum Board)</a><br/>
+  - <a href="https://trello.com/invite/b/NKVZUMAt/6ac61333654528777c30f5e451807830/guidexp-techlauncher-sem-1-2021">Trello board(Scrum Board)</a><br/>
 
 
 ## Development team
