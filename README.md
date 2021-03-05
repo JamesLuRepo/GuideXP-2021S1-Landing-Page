@@ -20,15 +20,17 @@ For now, “GuideXP” has achieved some critical functions – content creation
 
 ## Documentation  
  #### https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T  
-  ## Statement of Work
+  #### Statement of Work
+  
   -------------
-  ## Risk register
+  #### Risk register
   -------------
-  ## Meeting minutes
+  #### Meeting minutes
+  <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting minutes</a>
    #### https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing
-  ## Decision Log
+  #### Decision Log
    #### https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing
-  ## Effort Log
+  #### Effort Log
    #### https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing
 
 ## Trello board(Scrum Board)
