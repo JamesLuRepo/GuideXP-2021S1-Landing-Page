@@ -1,7 +1,7 @@
 # GuideXP-2021S1-Landing-Page
 The landing page of GuideXP in 2021S1
 ## Table of Contents
-  - Introduction(## Introduction)
+  - <a href="# Introduction">Introduction</a>
   - Clients
   - Documentation
   - Development team
