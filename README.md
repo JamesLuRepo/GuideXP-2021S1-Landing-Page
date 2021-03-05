@@ -5,7 +5,7 @@ The landing page of GuideXP in 2021S1
   - <a href="#clients">Clients</a>
   - Documentation
   - Development team(#Development team)
-  - <a href="h2-Project-Management-tools">Project Management tools</a>
+  - Project Management tools
   
     
 
@@ -14,7 +14,7 @@ The landing page of GuideXP in 2021S1
 “GuideXP” is a web-based platform to help our clients, museums and galleries, to create and manage digital content. It aims to build a clean and user-friendly content management system for our clients to upload and manage exhibition-related content. Also, “flexibility” is one of the critical values, as our clients can upload required information including formatted text, images, audios and videos in the initialization phase and update it if needed in future. Those multimedia ways help them provide better experiences for their online visitors.  
 For now, “GuideXP” has achieved some critical functions – content creation and modification. In the following days, we will pay more attention to gather and analyse visitors' activities based on our GuideXP website. This can help content providers realize how to create better exhibitions for their visitors.   
 
-## Clients{#clients}
+## Clients {#clients}
 * Jayden Castillo
 * Irene Zhen 
 
