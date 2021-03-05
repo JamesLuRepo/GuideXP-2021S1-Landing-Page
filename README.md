@@ -1,5 +1,8 @@
 # GuideXP-2021S1-Landing-Page
 The landing page of GuideXP in 2021S1
+## Table of Contents
+  ## Introduction
+
 
 ## Introduction
 “GuideXP” is a web-based platform to help our clients, museums and galleries, to create and manage digital content. It aims to build a clean and user-friendly content management system for our clients to upload and manage exhibition-related content. Also, “flexibility” is one of the critical values, as our clients can upload required information including formatted text, images, audios and videos in the initialization phase and update it if needed in future. Those multimedia ways help them provide better experiences for their online visitors.  
