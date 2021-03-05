@@ -53,6 +53,7 @@ For now, “GuideXP” has achieved some critical functions – content creation
 * Google Drive(Documentation)
 * Discord(Client Meeting & General Discussion)
 * Github(Code Management)
+* Slack (Tutor communication)
 
 
 
