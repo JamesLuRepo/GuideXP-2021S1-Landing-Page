@@ -25,16 +25,12 @@ For now, “GuideXP” has achieved some critical functions – content creation
   -------------
   #### Risk register
   -------------
-  #### Meeting minutes
+ 
   <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting minutes</a>
-   #### https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing
-  #### Decision Log
-   #### https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing
-  #### Effort Log
-   #### https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing
+  <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a>
+  <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a>
+  <a href="https://trello.com/b/NKVZUMAt/guidexp-techlauncher-sem-1-2021">Trello board(Scrum Board)</a>
 
-## Trello board(Scrum Board)
- #### https://trello.com/b/NKVZUMAt/guidexp-techlauncher-sem-1-2021   
 
 ## Development team
 #### Front-end Development   
