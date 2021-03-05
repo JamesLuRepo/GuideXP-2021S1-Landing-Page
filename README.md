@@ -19,7 +19,7 @@ For now, “GuideXP” has achieved some critical functions – content creation
 * Irene Zhen 
 
 ## Documentation  
-  <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T">Come to Google Grive to see all documents</a><br/>
+  Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T">Google Grive</a> to see all documents<br/>
 <br/>
 
   - <a href="">Statement of Work</a><br/>  
