@@ -20,16 +20,13 @@ For now, “GuideXP” has achieved some critical functions – content creation
 
 ## Documentation  
  #### https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T  
-  #### Statement of Work
-  
-  -------------
-  #### Risk register
-  -------------
- 
-  <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting minutes</a><br/>
-  <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a><br/>
-  <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a><br/>
-  <a href="https://trello.com/b/NKVZUMAt/guidexp-techlauncher-sem-1-2021">Trello board(Scrum Board)</a><br/>
+
+  - <a href="">Statement of Work</a><br/>  
+  - <a href="">Risk register</a><br/>
+  - <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting minutes</a><br/>
+  - <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a><br/>
+  - <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a><br/>
+  - <a href="https://trello.com/b/NKVZUMAt/guidexp-techlauncher-sem-1-2021">Trello board(Scrum Board)</a><br/>
 
 
 ## Development team
@@ -49,7 +46,6 @@ For now, “GuideXP” has achieved some critical functions – content creation
 * Google Drive(Documentation)
 * Discord(Client Meeting & General Discussion)
 * Github(Code Management)
-* Slack (Tutor communication)
 
 
 
