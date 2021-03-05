@@ -1,11 +1,11 @@
 # GuideXP-2021S1-Landing-Page
 The landing page of GuideXP in 2021S1
 ## Table of Contents
-  - <a href="h1-Introduction">Introduction</a>
+  - <a href="h2-Introduction">Introduction</a>
   - Clients
   - Documentation
   - Development team
-  - Project Management tools
+  - <a href="h2-Project-Management-tools">Project Management tools</a>
   
     
 
