@@ -25,14 +25,14 @@ This semester, we are focusing on gathering and analysing visitors' activities i
 
 ## Documentation 
 
-Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T">Google Grive</a> to see all documents<br/>
+Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T">Google Grive</a> to see all documents
 
-  - <a href="">Statement of Work</a><br/>
-  - <a href="">Risk register</a><br/>
-  - <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting minutes</a><br/>
-  - <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a><br/>
-  - <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a><br/>
-  - <a href="https://trello.com/invite/b/NKVZUMAt/6ac61333654528777c30f5e451807830/guidexp-techlauncher-sem-1-2021">Trello Board (Scrum Board)</a><br/>
+  - <a href="">Statement of Work</a>
+  - <a href="https://drive.google.com/file/d/1ATJ03fvK11z5SPeqefi_lI6GgIHnUsdF/view?usp=sharing">Risk Assessment</a>
+  - <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting Minutes</a>
+  - <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a>
+  - <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a>
+  - <a href="https://trello.com/invite/b/NKVZUMAt/6ac61333654528777c30f5e451807830/guidexp-techlauncher-sem-1-2021">Trello Board (Scrum Board)</a>
   - [Trello Board Definitions](https://drive.google.com/file/d/1H9Th9iIIG1TnO3qsSb__zL2MSm4-hzFr/view?usp=sharing)
 
 ## Development Team
@@ -53,5 +53,5 @@ Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO
 * [Google Drive](https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T) (Documentation)
 * [Discord](https://discord.gg/M9YPq77d) (Client Meeting & General Discussion)
 * [Github](https://github.com/GuideXP/guidexp/tree/staging) (Code Management)
-* [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor communication)
+* [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor Communication)
 
