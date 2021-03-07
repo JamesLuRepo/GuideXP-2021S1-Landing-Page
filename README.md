@@ -1,54 +1,57 @@
 # GuideXP-2021S1-Landing-Page
-The landing page of GuideXP in 2021S1
+
 ## Table of Contents
+
   - <a href="#introduction">Introduction</a>
   - <a href="#clients">Clients</a>
   - <a href="#documentation">Documentation</a>
   - <a href="#development-team">Development team</a>
   - <a href="#project-management-tools">Project Management tools</a>
-  
-    
 
+------
 
 ## Introduction
-“GuideXP” is a web-based platform to help our clients, museums and galleries, to create and manage digital content. It aims to build a clean and user-friendly content management system for our clients to upload and manage exhibition-related content. Also, “flexibility” is one of the critical values, as our clients can upload required information including formatted text, images, audios and videos in the initialization phase and update it if needed in future. Those multimedia ways help them provide better experiences for their online visitors.  
-For now, “GuideXP” has achieved some critical functions – content creation and modification. In the following days, we will pay more attention to gather and analyse visitors' activities based on our GuideXP website. This can help content providers realize how to create better exhibitions for their visitors.   
+
+Museums and galleries are seeking an online approach to managing their exhibitions and exhibits. They also want to find an effective and efficient way to show their content to more visitors and increase their popularity. Especially in the current pandemic situation where social distancing is essential, an online platform is needed. The museums and galleries that have existing website usually spend plenty of time communicating with the website manager about how to display their content. 
+
+“GuideXP” is a web-based platform that helps museums and galleries create and manage their digital content. It aims to build a clean and user-friendly content management system for users to upload and manage exhibition-related content. “Flexibility” is one of the critical values we are offering. Users are able to arrange and design their content such as texts, images, audios, and videos in a rich text editor and see how it is is shown to the visitors. Visitors can use "GuideXP" as a companion when they are visiting museums and galleries or explore them online in the comfort of their home.
+
+This semester, we are focusing on gathering and analysing visitors' activities in the website to create meaningful analytics page for museums and galleries.
 
 ## Clients
+
 * Jayden Castillo
-* Irene Zhen 
+* Irene Zhen
 
-## Documentation  
-  Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T">Google Grive</a> to see all documents<br/>
-<br/>
+## Documentation 
 
-  - <a href="">Statement of Work</a><br/>  
+Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T">Google Grive</a> to see all documents<br/>
+
+  - <a href="">Statement of Work</a><br/>
   - <a href="">Risk register</a><br/>
   - <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting minutes</a><br/>
   - <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a><br/>
   - <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a><br/>
-  - <a href="https://trello.com/invite/b/NKVZUMAt/6ac61333654528777c30f5e451807830/guidexp-techlauncher-sem-1-2021">Trello board(Scrum Board)</a><br/>
+  - <a href="https://trello.com/invite/b/NKVZUMAt/6ac61333654528777c30f5e451807830/guidexp-techlauncher-sem-1-2021">Trello Board (Scrum Board)</a><br/>
+  - [Trello Board Definitions](https://drive.google.com/file/d/1H9Th9iIIG1TnO3qsSb__zL2MSm4-hzFr/view?usp=sharing)
 
+## Development Team
 
-## Development team
-#### Front-end Development   
-* Hengli Guan (u6729988)
-* Yuxin Deng (u6453031) 
-* Ziyu Lu (u6889341)  
+| Name              | UID      | Main Role           | Other Role(s)   |
+| ----------------- | -------- | ------------------- | --------------- |
+| Hengli Guan       | u6729988 | Front-End Developer | Project Manager |
+| Yuxin Deng        | u6453031 | Front-End Developer |                 |
+| Ziyu Lu           | u6889341 | Front-End Developer | Spokesperson    |
+| Liunardy Tjong    | u6783005 | Back-End Developer  | Spokesperson    |
+| Simeon Pekkarinen | u6962284 | Back-End Developer  |                 |
+| Siqi Chen         | u6857825 | Back-End Developer  |                 |
+| Stephen Waring    | u5182264 | Back-End Developer  |                 |
 
-#### Back-end Development   
-* Liunardy Tjong (u6783005)
-* Simeon Pekkarinen (u6962284)
-* Siqi Chen (u6857825)
-* Stephen Waring (u5182264)
+## Project Management Tools
 
-## Project Management tools
-* Trello Board(Scrum Board)
-* Google Drive(Documentation)
-* Discord(Client Meeting & General Discussion)
-* Github(Code Management)
-* Slack(Tutor communication)
-
-
-
+* [Trello Board](https://trello.com/invite/b/NKVZUMAt/6ac61333654528777c30f5e451807830/guidexp-techlauncher-sem-1-2021) (Scrum Board)
+* [Google Drive](https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T) (Documentation)
+* [Discord](https://discord.gg/M9YPq77d) (Client Meeting & General Discussion)
+* [Github](https://github.com/GuideXP/guidexp/tree/staging) (Code Management)
+* [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor communication)
 
