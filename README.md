@@ -21,7 +21,7 @@ This semester, we are focusing on gathering and analysing visitors' activities i
 ## Clients
 
 * Jayden Castillo
-* Irene Zhen
+* William O'Connell
 
 ## Documentation 
 
