@@ -33,7 +33,7 @@ Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO
   - <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a>
   - <a href="https://drive.google.com/file/d/1qh9WFdYa0iRUFgN1od0I5yPe_ioIbJMZ/view?usp=sharing">Effort Log</a>
   - <a href="https://trello.com/invite/b/NKVZUMAt/6ac61333654528777c30f5e451807830/guidexp-techlauncher-sem-1-2021">Trello Board (Scrum Board)</a>
-  - [Trello Board Definitions](https://drive.google.com/file/d/1H9Th9iIIG1TnO3qsSb__zL2MSm4-hzFr/view?usp=sharing)
+    - [Trello Board Definitions](https://drive.google.com/file/d/1H9Th9iIIG1TnO3qsSb__zL2MSm4-hzFr/view?usp=sharing)
 
 ## Development Team
 
@@ -53,5 +53,7 @@ Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO
 * [Google Drive](https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T) (Documentation)
 * [Discord](https://discord.gg/M9YPq77d) (Client Meeting & General Discussion)
 * [Github](https://github.com/GuideXP/guidexp/tree/staging) (Code Management)
+  * Our GitHub Repository is managed by our client. Please contact the spokesperson with your email/github account for access.
+  * Branches that we use are staging (main) and 2021s1_[name] (feature(s)).
 * [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor Communication)
 
