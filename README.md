@@ -28,6 +28,7 @@ This semester, we are focusing on gathering and analysing visitors' activities i
 Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO68n5TeR-T">Google Grive</a> to see all documents
 
   - <a href="https://drive.google.com/file/d/1sP_v91aHQlqXuWkfiF-i0ROkoHq5RK8X/view?usp=sharing">Statement of Work</a>
+  - [IP Agreement](https://drive.google.com/file/d/1n7y0DlIPS2yOGqoiZ1IyMHPZ03CElVdk/view?usp=sharing)
   - <a href="https://drive.google.com/file/d/1ATJ03fvK11z5SPeqefi_lI6GgIHnUsdF/view?usp=sharing">Risk Assessment</a>
   - <a href="https://drive.google.com/drive/folders/1dshUyOuY8a0LKLcZ50IHCY3lKOzUluOJ?usp=sharing">Meeting Minutes</a>
   - <a href="https://drive.google.com/file/d/1FdSaCMYR1OJ0aiTvRTQWP8Y01rBmyY1Y/view?usp=sharing">Decision Log</a>
