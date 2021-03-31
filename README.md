@@ -58,3 +58,7 @@ Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO
   * Branches that we use are staging (main) and 2021s1_[name] (feature(s)).
 * [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor Communication)
 
+## Websites
+
+- We have a live website at [guidexp.me](https://guidexp.me/) where you can find the attraction by National Capital Exhibition. The live website is based on the master branch of our GitHub Repository.
+- We also have a staging website that is based on the staging branch (our main branch for development). Please contact the spokespeople for access.
