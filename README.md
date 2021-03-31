@@ -41,11 +41,11 @@ Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO
 | Name              | UID      | Main Role           | Other Role(s)   |
 | ----------------- | -------- | ------------------- | --------------- |
 | Hengli Guan       | u6729988 | Front-End Developer | Project Manager |
+| Siqi Chen         | u6857825 | Front-End Developer |                 |
 | Yuxin Deng        | u6453031 | Front-End Developer |                 |
 | Ziyu Lu           | u6889341 | Front-End Developer | Spokesperson    |
 | Liunardy Tjong    | u6783005 | Back-End Developer  | Spokesperson    |
 | Simeon Pekkarinen | u6962284 | Back-End Developer  |                 |
-| Siqi Chen         | u6857825 | Back-End Developer  |                 |
 | Stephen Waring    | u5182264 | Back-End Developer  |                 |
 
 ## Project Management Tools
