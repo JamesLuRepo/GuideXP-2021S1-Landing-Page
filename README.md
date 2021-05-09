@@ -55,7 +55,7 @@ Come to <a href="https://drive.google.com/drive/folders/1EYXEEm-YDQSSjJCPR3694MO
 * [Discord](https://discord.gg/M9YPq77d) (Client Meeting & General Discussion)
 * [Github](https://github.com/GuideXP/guidexp/tree/staging) (Code Management)
   * Our GitHub Repository is managed by our client. Please contact the spokesperson with your email/github account for access.
-  * Branches that we use are staging (main) and 2021s1_[name] (feature(s)).
+  * Branches that we use are [staging](https://github.com/GuideXP/guidexp/tree/staging) (main) and [2021s1_[name]](https://github.com/GuideXP/guidexp/branches/all?query=2021s1) (feature(s)).
 * [Slack](https://app.slack.com/client/T01LSELGRL3/C01Q9FTLC04) (Tutor Communication)
 
 ## Websites
